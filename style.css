@@ -613,12 +613,18 @@ padding-top: 90px;
 
     .ch-right a {
         color: #ffffff;
+        text-decoration: none;
     }
     
     .ch-left{
         width: 100px;
         line-height: 30px;
     
+    }
+
+    .ch-left a {
+        color: #ffffff;
+        text-decoration: none;
     }
     .f-right{
         text-align: left;
